@@ -13,7 +13,8 @@ else:
     print("Both are Equal")
 
 if (a == 10) != (b == 12):
-    print("End")a = 10 #True
+    print("End")
+a = 10 #True
 b = 12 #True
 c = 0 #False
 if a and b and c:
